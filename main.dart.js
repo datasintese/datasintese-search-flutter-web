@@ -21934,8 +21934,9 @@ if(o==null){o=A.a([],s)
 n.l(0,p,o)
 p=o}else p=o
 J.fH(p,q)}return n},
-aAC(){return"0.0.17"},
-dE(){return"https://api.datasintese.com"},
+aAC(){return"0.0.18"},
+dE(){var s="https://api.datasintese.com",r="https://api.datasintese.com:5577"
+return r},
 dc(a,b,c,d,e,f,g){switch(a){case 200:b.$0()
 break
 case 400:c.$0()
